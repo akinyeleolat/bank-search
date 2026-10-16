@@ -1,0 +1,16 @@
+# Build output
+target/
+
+# IDE
+.idea/
+.classpath
+.project
+.settings/
+*.iml
+
+# Local tooling
+.remember/
+.DS_Store
+
+# Claude Code
+CLAUDE.md
