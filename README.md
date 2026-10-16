@@ -1,5 +1,7 @@
 # Bank name type-ahead (Belema assessment, Q2)
 
+[![CI](https://github.com/akinyeleolat/bank-search/actions/workflows/ci.yml/badge.svg)](https://github.com/akinyeleolat/bank-search/actions/workflows/ci.yml)
+
 An in-memory, word-level prefix trie that suggests destination banks as the customer types.
 
 ## Requirements
